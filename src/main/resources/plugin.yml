@@ -1,0 +1,7 @@
+name: PlayerLeash
+version: '${project.version}'
+main: com.example.playerleash.PlayerLeashPlugin
+api-version: '1.21'
+author: glgqqe
+description: Plugin to leash players with lead and restrict their movement and actions
+
